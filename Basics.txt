@@ -1,0 +1,52 @@
+## Git and Github are different
+
+- Git is a version control system that is used to track changes to your files.
+- GIT is a software and can be installed on your computer.
+- Github is a web-based hosting service for Git repositories.
+- Github is an online platform that allows you to store and share your code with others.
+It is a popular platform for developers to collaborate on projects and to share code.
+
+## version control systems
+
+Version control systemsare used to manage the history of your code.
+They allow us to track changes to your files and to collaborate with others.
+
+## Terminology
+
+folder❌, they call it a repository
+A repository is a collection of files and directories that are stored together. 
+It is a way to store and manage our code. 
+alternative timeline❌, they call it branch
+
+## BASICS
+
+`cd`  to enter any folder
+`pwd` to check present working directory
+`ls` or `ls -la`to check all file names present(long listing)
+`git log` to check past history
+
+### Check our git version
+
+`git --version`
+At any point we can run the following command to see the current state of your repository:
+`git status`
+
+### Config settings
+
+To use the email and username that we have created.
+
+`git config --global user.email "1SI24IS087@sit.ac.in"
+git config --global user.name "Samarth_543"`
+`git config --list`
+
+### Creating a repository
+
+Creating a repository is a process of creating a new folder on our system and initializing it as a git repository.
+
+`git status` command will show you the current state of your repository
+`git init` command will create a new folder on your system and initialize it as a git repository.
+
+### Commit
+
+commit is a way to save your changes to your repository.
+It is a way to record your changes and make them permanent
