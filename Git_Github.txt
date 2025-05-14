@@ -1,0 +1,17 @@
+Git:
+- Git is a distributed version control system used to track changes in source code during software development.
+- It allows multiple developers to work on the same project without overwriting each other's changes.
+- Git operates locally on your machine, enabling offline work.
+- Key commands include `git init`, `git add`, `git commit`, `git branch`, `git merge`, and `git log`.
+
+GitHub:
+- GitHub is a cloud-based platform that hosts Git repositories.
+- It provides a web interface for collaboration, issue tracking, and project management.
+- GitHub enables developers to share their code with others, contribute to open-source projects, and manage pull requests.
+- It integrates with Git but also offers additional features like Actions (CI/CD), Pages (hosting), and Discussions.
+
+Key Differences:
+1. **Purpose**: Git is a tool for version control, while GitHub is a platform for hosting and collaboration.
+2. **Location**: Git works locally; GitHub is cloud-based.
+3. **Features**: Git focuses on version control; GitHub adds collaboration tools, issue tracking, and more.
+4. **Dependency**: Git can work independently; GitHub requires Git for repository management.
